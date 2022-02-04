@@ -1,4 +1,12 @@
 # Pedestrian Detection
+
+*참고 자료*  
+[SSD 논문](https://arxiv.org/abs/1512.02325)  
+[SSD GitHub](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Object-Detection)  
+[half-way 논문](http://www.kibme.org/resources/journal/20180731114000412.pdf)
+
+[나의 SSD 논문 코드 정리](https://github.com/yeonx/Pedestrian-Detection/blob/main/URP%20SSD%20%EC%9D%B4%EB%A1%A0_%EC%BD%94%EB%93%9C.pdf)
+
  **문제발견**
 <ol type = '1'>
  
